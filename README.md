@@ -23,7 +23,7 @@
 	 - output:
 	 pie chart and abar chart about the result.
 	 - Note:
-	I have put the picture to explain this part, you can find it in the doc.
+	 I have put the picture to explain this part, you can find it in the doc.
 
 ###How To Run :
 	 - cd the ReviewsAnalysis in the cmd env of windows.
