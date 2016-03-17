@@ -10,7 +10,7 @@
 ###Main function:
 	 - This function is used to statistic and analysis of  hotels' reviews. 
 	 The statistic and analysis are based on the keywords which users input. 
-	 According to the keywords this function can returnthe statistic result 
+	 According to the keywords this function can return the statistic result 
 	 to the users.
 	 - In order to provide the users more accurate results, we provide some
 	 basic search pattern to help the users to search, of course, 
