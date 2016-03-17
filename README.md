@@ -2,7 +2,7 @@
 
 ###Function name:
 	
-	* - customer evaluation system
+	*- customer evaluation system
 
 ###Author:
 	* - xuxx
